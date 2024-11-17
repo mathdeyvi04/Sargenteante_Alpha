@@ -1,0 +1,7 @@
+
+noconsole == Faz com que não fique com a janela preta funcionando simultaneamente, como ocorre com o octave
+
+name == nome do arquivo exe
+
+A imagem do icone deve estar na mesma pasta do executavel, isso pode gerar confusão depois, veja o sanha no youtubep
+
